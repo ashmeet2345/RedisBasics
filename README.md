@@ -1,2 +1,2 @@
 # RedisBasics
-Redis CRUD caching basics with spring boot. 
+Redis CRUD operations, caching basics with spring boot. 
